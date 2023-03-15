@@ -1,2 +1,2 @@
 # My portfolio
-[My Portfolio Website](dnyaneshvn.netlify.com)
+[My Portfolio Website](dnyaneshvn.github.io)
