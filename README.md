@@ -3,6 +3,6 @@
 
 </head>
 <body>
-<a href="https://dnyaneshvn.netlify.app/"> Link </a>
+<a href="https://dnyaneshvn.netlify.app/"> My Portfolio </a>
 </body>
 </html>
